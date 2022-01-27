@@ -1,2 +1,3 @@
 # hello-world
-My first git repository for practice
+hello-world repository is created to practise github
+from GitHub docs
